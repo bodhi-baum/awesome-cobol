@@ -381,7 +381,7 @@ Where to discover new Cobol libraries.
 
 * [Cobol Projects](https://code.cobologle.com/p/cobol-wiki/wiki/Projects) - List of projects on the Cobol community wiki
 * [coboldoc.org](http://coboldoc.org/) - Documentation for open source Cobol packages.
-* [r/Cobollang](http://www.reddit.com/r/cobollang) - News about Cobol.
+* [r/Cobollang](http://www.reddit.com/r/cobol) - News about Cobol.
 * [Trending Cobol repositories on GitHub today](https://github.com/trending?l=cobol) - Cobolod place to find new Cobol libraries.
 * [Flipboard - Cobol Magazine](https://flipboard.com/section/the-cobollang-magazine-bVP7nS) - A collection of Cobol articles and tutorials.
 
